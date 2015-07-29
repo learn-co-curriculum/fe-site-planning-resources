@@ -1,9 +1,4 @@
----
-language: none
-tags: site planning
-type: resources
-resources: 3
----
+
 
 ## Resources
 
